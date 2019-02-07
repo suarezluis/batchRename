@@ -1,0 +1,26 @@
+{
+  "name": "batchrename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "batchRename.js",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.0",
+    "hummus-recipe": "^1.8.1",
+    "inquirer": "^6.2.2",
+    "pdf-merger-trvl": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezluis/batchRename.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezluis/batchRename/issues"
+  },
+  "homepage": "https://github.com/suarezluis/batchRename#readme"
+}
