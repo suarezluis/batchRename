@@ -2,7 +2,8 @@
   "name": "batchrename",
   "version": "1.0.0",
   "description": "",
-  "main": "batchRename.js",
+  "main": "test.js",
+  "bin": "batchRename.js",
   "dependencies": {
     "easy-pdf-merge": "^0.2.0",
     "hummus-recipe": "^1.8.1",
